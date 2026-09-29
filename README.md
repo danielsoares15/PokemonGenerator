@@ -13,16 +13,6 @@
     <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge" alt="Status" />
   </p>
 
-```text
-       \.-=-./
-      /       \
-     | (\   /) |      ⚡ Pika-Pikachu! ⚡
-    /    _O_    \     Pronto para automatizar
-   |   ( . . )   |    a criação dos seus Pokémons!
-    \   `---'   /
-     `--.....--'
-```
-
 </div>
 
 ---
